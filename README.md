@@ -32,7 +32,7 @@ I enjoy building modern, scalable, and impactful web applications — both on th
 
 ### 📫 Let's connect:
 
-- 🌐 [Portfolio](https://portafolionextjs.netlify.app/)
+
 - 💼 [LinkedIn](https://linkedin.com/in/julia-roxana-natera-917b62172)
 
 ---
