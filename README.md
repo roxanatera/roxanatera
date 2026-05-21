@@ -1,49 +1,38 @@
-# 👋 Hi there! I'm Julia Roxana Natera (JR)
+# Hi, I'm Julia Roxana Natera 👋
 
-🎯 **Full Stack Developer | AWS Certified | Passionate about technology and innovation**
+**Web Developer · Learning Cybersecurity & Linux**
 
-I enjoy building modern, scalable, and impactful web applications — both on the frontend and backend. I'm always looking to apply clean code practices and leverage powerful tools that help bring ideas to life.
-
-🚀 Currently diving deeper into:
-- Cloud development with AWS
-- Dockerized app deployment
-- Scalable architecture design
-- Automated testing strategies
+I build clean, fast, and accessible web interfaces. Currently expanding into cybersecurity and Linux — learning by doing, one commit at a time.
 
 ---
 
-### 🛠️ Technologies I work with:
+### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
 </p>
 
----
-
-### 📫 Let's connect:
-
-
-- 💼 [LinkedIn](https://linkedin.com/in/julia-roxana-natera-917b62172)
+**Currently learning:** Astro · Tailwind CSS · Linux Security · Bash Scripting
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projects
 
-- 🔧 [TaskManagementSystem](https://github.com/roxanatera/TaskManagementSystem) – Task management with Java & JavaFX
-- 🚀 [Backend-AddProduct](https://github.com/roxanatera/Backend-AddProduct) – Product API using Node.js, Express & MongoDB
-- 🧠 [System Info App](https://github.com/roxanatera/systeminfo) – Lightweight system information app built in Go
+- 🌐 [Portfolio](https://github.com/roxanatera/portfolio-cybersecurity) — Personal portfolio built with Astro & Tailwind CSS
+- 🐧 [Linux Security Toolkit](https://github.com/roxanatera/linux-security-toolkit) — Bash scripts for Linux auditing & security
 
 ---
 
-🧠 *“Technology isn’t just something to learn — it’s something to live. Let’s build and grow together.”*
+### 📫 Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julia%20Roxana%20Natera-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/julia-roxana-natera)
+[![GitHub](https://img.shields.io/badge/GitHub-roxanatera-black?style=flat-square&logo=github)](https://github.com/roxanatera)
+
+---
+
+*Building the future web · Protecting it from the first commit.*
