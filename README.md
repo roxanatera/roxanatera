@@ -89,6 +89,7 @@ I build clean, fast, and accessible web interfaces using modern technologies. Cu
 - 🟡 KodeKloud — DevOps Engineer
 - 🔵 TryHackMe — Pre-Security & Web Fundamentals
 - 🔴 HackTheBox Academy — Penetration Tester path (→ CPTS)
+- 🏛️ Specialization in Cybersecurity — Seville Chamber of Commerce (Sep 2026)
 
 ---
 
