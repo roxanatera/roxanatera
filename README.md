@@ -75,10 +75,14 @@ I build clean, fast, and accessible web interfaces using modern technologies. Cu
 ---
 
 ### 🚀 Currently working on
-
-- 🔐 Linux & Cybersecurity fundamentals (KodeKloud — 61% complete)
+- 🔐 Linux & Cybersecurity fundamentals (KodeKloud)
 - 🌐 Personal portfolio with Astro & Tailwind CSS
 - 🐧 Linux Security Toolkit — Bash scripts for system auditing
+
+### 📚 Learning path
+- 🟡 KodeKloud — DevOps Engineer
+- 🔵 TryHackMe — Pre-Security & Web Fundamentals
+- 🔴 HackTheBox Academy — Penetration Tester path (→ CPTS)
 
 ---
 
