@@ -33,6 +33,12 @@ I build clean, fast, and accessible web interfaces using modern technologies. Cu
 - 🌐 Personal portfolio with Astro & Tailwind CSS
 - 🐧 Linux Security Toolkit — Bash scripts for system auditing
 
+  ### 📚 Ruta de aprendizaje
+- 🟡 KodeKloud — DevOps Engineer
+- 🔵 TryHackMe — Pre-Security y Fundamentos Web
+- 🔴 HackTheBox Academy — Ruta Penetration Tester (→ CPTS)
+- 🏛️ Especialización en Ciberseguridad — Cámara de Comercio de Sevilla (Sep 2026)
+
 ---
 
 ### 📌 Featured Projects
